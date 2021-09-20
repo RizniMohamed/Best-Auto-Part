@@ -1,0 +1,24 @@
+engine oil,5850 LKR
+battery water,80 LKR (per liter)
+headlight,2000 LKR
+signal light,700 LKR
+break light,900 LKR
+power steering oli,1150 LKR
+power steering seal full set,1300 LKR
+break oil,520 LKR
+break shoe,2850 LKR
+break washer,800 LKR
+master pump busher set,2300 LKR
+disk plate,1500 LKR
+break switch,750 LKR
+abs sensor,3200 LKR
+speedometer sensor,2950 LKR
+rpm sensor,4200 LKR
+clutch plate,17200 LKR
+gladiator cap,1100 LKR
+tire,23450 LKR
+alloy wheel,22700 LKR
+bearing,8000 LKR
+oil filter,1950 LKR
+air filter,3300 LKR
+zxc,zxc LKR
